@@ -1,0 +1,16 @@
+{
+  "name": "ort-be-tp2b-final-speicher",
+  "version": "1.0.0",
+  "description": "Final de Taller de Programacion 2. Alumno: Guillermo Speicher",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file ./utils/.env.dev .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo Speicher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
